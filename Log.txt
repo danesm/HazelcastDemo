@@ -1,0 +1,20 @@
+
+C:\MemberApp>set HOME=C:\MemberApp 
+
+C:\MemberApp>rem set PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\IBM\WebSphere MQ\java\lib;C:\Program Files\IBM\WebSphere MQ\java\lib64;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files (x86)\ibm\gsk8\lib;c:\program files (x86)\ibm\gsk8\lib;c:\program files\ibm\gsk8\lib64;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\Program Files\IBM\WebSphere MQ\bin64;C:\Program Files\IBM\WebSphere MQ\bin;C:\Program Files\IBM\WebSphere MQ\tools\c\samples\bin;C:\Program Files\IBM\Bluemix\bin;C:\Program Files\nodejs\;C:\Training\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files\OpenVPN\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Python34;C:\Program Files\Git\cmd;C:\Users\IBM_ADMIN\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\IBM_ADMIN\AppData\Local\Programs\Python\Python36-32\;C:\Users\IBM_ADMIN\AppData\Roaming\npm;C:\Users\IBM_ADMIN\AppData\Local\GitHubDesktop\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Program Files\Java\jre1.8.0_171\lib;C:\MemberApp/lib/hazelcast-all-3.10.1.jar; 
+
+C:\MemberApp>set PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\IBM\WebSphere MQ\java\lib;C:\Program Files\IBM\WebSphere MQ\java\lib64;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0\;c:\program files (x86)\ibm\gsk8\lib;c:\program files (x86)\ibm\gsk8\lib;c:\program files\ibm\gsk8\lib64;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\Program Files\IBM\WebSphere MQ\bin64;C:\Program Files\IBM\WebSphere MQ\bin;C:\Program Files\IBM\WebSphere MQ\tools\c\samples\bin;C:\Program Files\IBM\Bluemix\bin;C:\Program Files\nodejs\;C:\Training\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files\OpenVPN\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Python34;C:\Program Files\Git\cmd;C:\Users\IBM_ADMIN\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\IBM_ADMIN\AppData\Local\Programs\Python\Python36-32\;C:\Users\IBM_ADMIN\AppData\Roaming\npm;C:\Users\IBM_ADMIN\AppData\Local\GitHubDesktop\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Java\jdk1.8.0_151\bin; 
+
+C:\MemberApp>javac -cp  C:\MemberApp\com\dm\lib\hazelcast-all-3.10.1.jar  -Xlint:unchecked C:\MemberApp\com\dm\sample\*.Java 
+
+C:\MemberApp>java -cp C:\MemberApp\com\dm\lib\hazelcast-all-3.10.1.jar;C:\MemberApp; com.dm.sample.CreateMember 
+!!!!!!!!!!!!!!!!We are started!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!I have joined!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!I have joined!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!I have joined!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!I have joined!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!I have joined!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!I have joined!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!I have joined!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!I have joined!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!I have joined!!!!!!!!!!!!!!!!!
